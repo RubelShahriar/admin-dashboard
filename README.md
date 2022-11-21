@@ -1,7 +1,7 @@
 ## Admin-dashboard
 
 ```
-• This is a admin dashboard 
+• This is an admin dashboard 
 • Using 'Javascript', 'HTML', and 'CSS'
 • Light and Dark mode
 • Awesome date picker
